@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "pkgcloudbluemix",
+        "scope": null,
+        "escapedName": "pkgcloudbluemix",
+        "name": null,
+        "rawSpec": "pkgcloudbluemix",
+        "spec": "C:\\Program Files\\nodejs\\pkgcloudbluemix",
+        "type": "directory"
+      },
+      "C:\\Program Files\\nodejs"
+    ]
+  ],
+  "_from": "pkgcloudbluemix",
+  "_id": "pkgcloudbluemix@1.0.0",
+  "_inCache": true,
+  "_location": "/pkgcloudbluemix",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "pkgcloudbluemix",
+    "scope": null,
+    "escapedName": "pkgcloudbluemix",
+    "name": null,
+    "rawSpec": "pkgcloudbluemix",
+    "spec": "C:\\Program Files\\nodejs\\pkgcloudbluemix",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:pkgcloudbluemix",
+  "_shasum": "c41f5c68908a139f54fbd80290f3fa0f676a2032",
+  "_shrinkwrap": null,
+  "_spec": "pkgcloudbluemix",
+  "_where": "C:\\Program Files\\nodejs",
+  "author": {
+    "name": "Pranay Gohil",
+    "email": "pranay.gohil@gmail.com"
+  },
+  "dependencies": {},
+  "description": "pkg cloud file adapter",
+  "devDependencies": {},
+  "keywords": [
+    "pkgcloud"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "pkgcloudbluemix",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
